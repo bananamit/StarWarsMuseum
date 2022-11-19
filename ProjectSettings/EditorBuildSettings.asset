@@ -9,12 +9,12 @@ EditorBuildSettings:
     path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity
     guid: 145a2a45d7bc746b19cb68410368bf96
   - enabled: 0
-    path: Assets/Scenes/Museum.unity
-    guid: 6558333c377f37a47b8a33af01d608a0
-  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Scenes/Andres pruebas.unity
     guid: c87fdbf484c40ed47bb9350a8b33b9c7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Museo.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
