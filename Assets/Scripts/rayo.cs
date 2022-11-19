@@ -31,7 +31,7 @@ public class rayo : MonoBehaviour
             Debug.DrawRay(Camera.position, Camera.forward * hit.distance, Color.blue);
             Debug.Log("Ha golpeado algo" + hit.collider.gameObject.name);
 
-            if(hit.collider.gameObject.name=="R2D2")
+            if(hit.collider.gameObject.name=="R2")
             {
                 j++;
                 if(j % 2 == 0)
